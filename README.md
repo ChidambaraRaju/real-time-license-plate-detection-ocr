@@ -186,4 +186,3 @@ Proper attribution must be maintained when using or redistributing the data.
 ## ✨ Author
 
 Built as a portfolio-grade project focusing on **real-world system design**, **evaluation-driven development**, and **applied computer vision engineering**.
->>>>>>> 02886a6 (README.md)
